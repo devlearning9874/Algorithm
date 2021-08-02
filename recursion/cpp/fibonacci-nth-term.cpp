@@ -35,7 +35,7 @@ int main(){
 
     int nthTerm = fibonacciNTerm(n);
 
-    printf("%d \n", nthTerm);
+    printf("Fibonacci of %dth term is: %d \n",n, nthTerm);
 
     return 0;
 }
